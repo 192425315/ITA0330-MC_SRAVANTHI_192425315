@@ -1,0 +1,4 @@
+Strategy,Assumed handovers/user/hour,"Estimated events/hour at 50,000 users"
+Macrocell,0.5,25000
+Small cell,3.0,150000
+HetNet,1.5,75000
